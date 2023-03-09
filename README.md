@@ -1,4 +1,4 @@
-#LedgerCo Problem
+## LedgerCo Problem
 
  *Maven used as build system.*
  
