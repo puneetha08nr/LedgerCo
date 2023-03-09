@@ -2,7 +2,7 @@
 
  *Maven used as build system.*
  
- To run the code followed the same instructions mentioned in the problem.
+ To run the code follow the below instructions.
  
  * To build the code - `mvn clean install`
  * To run tests - `mvn test`
